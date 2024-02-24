@@ -1,4 +1,3 @@
-theme: jekyll-theme-minimal
 
 # ISCI 3A12 LUE Seminar 1: Planetary Formation
 
