@@ -52,3 +52,8 @@ The theory of planetary formation, much like the categorisation of exoplanets, i
 - [Article on ALMA by the U.S National Radio Astronomy Observatory (2023) titled](https://public.nrao.edu/news/alma-observation-of-young-star-reveals-details-of-dust-grains/
 ) “ALMA Observation of Young Star Reveals Details of Dust Grains.”
 
+## Pre-Assessment Quiz
+
+[Here is the link](https://forms.office.com/r/6Fk2kpZQrD ) for the quiz to be completed by Wednesday February 28th at 2:00 pm!
+
+> Take a moment to reflect on what you already know and some existing questions you have for the upcoming seminar. We look forward to seeing you there ISCI 3A12!
