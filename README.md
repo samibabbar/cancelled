@@ -41,7 +41,14 @@ The theory of planetary formation, much like the categorisation of exoplanets, i
 
 
 ## External Content
-
 #### MANDATORY
+- [“We Might Be Wrong About Planet Formation” by SciShow Space (2022)](https://www.youtube.com/watch?v=Umu613bK7W8&ab_channel=SciShowSpace): Gives insight into how leading discoveries are altering our classical views on planet formation and highlighting gaps in the theories. 
+- [“The Epoch of Planet Formation, Times Twenty” by the Harvard and Smithsonian Centre for Astrophysics](https://cfa.harvard.edu/news/epoch-planet-formation-times-twenty): Provides insight into the capabilities of ALMA in planet formation research: 
+- [“Planet formation by pebble accretion in ringed disks” by Morbidelli (2020)](https://doi.org/10.1051/0004-6361/202037983 )
 #### OPTIONAL
+- [Chapter 3 on planet formation theory by Drazkowska et al. (2023)](https://doi.org/10.48550/arXiv.2203.09759), published in the Protostars and Planets VII book - provides insight into emerging theories and current data. 
+- [Discover Connect’s summary episode](https://youtu.be/dszw4ewPDfA?si=lethHMcML8zzRLtB) on planetary formation:
+- [“Formation of the Planets” By Lincoln Learning Solutions](https://www.youtube.com/watch?v=sCkhEu3lYNc&ab_channel=LincolnLearningSolutions): Provides a simplified summary of planetary formation, narrowed to our solar system. 
+- [Article on ALMA by the U.S National Radio Astronomy Observatory (2023) titled](https://public.nrao.edu/news/alma-observation-of-young-star-reveals-details-of-dust-grains/
+) “ALMA Observation of Young Star Reveals Details of Dust Grains.”
 
